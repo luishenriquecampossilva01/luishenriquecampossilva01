@@ -2,7 +2,7 @@
 
 <br />
 
-Eu sou desemvolvedor back end Apaixonado por python.
+Eu sou desemvolvedor back end apaixonado por Python.
 <br/>
 
 **Sobre Mim**
