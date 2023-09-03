@@ -6,7 +6,7 @@ Eu sou desemvolvedor back end Apaixonado por python.
 <br/>
 **Sobre Mim**
 
-- 💼 Estudante de Python na [Hashtag Treinamentos](https://www.hashtagtreinamentos.com/)
+- 📚 Estudante de Python na [Hashtag Treinamentos](https://www.hashtagtreinamentos.com/)
 
 - ❤️ Adoro escrever open source e Resolver exercicios de Lógica.
 
