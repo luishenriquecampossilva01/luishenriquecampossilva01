@@ -11,7 +11,9 @@ Eu sou desemvolvedor back end Apaixonado por python.
 
 - ❤️ Adoro escrever open source e Resolver exercicios de Lógica.
 <br/>
-[![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](
+[![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/luis-campos-silva/) 
+
+![Luis GitHub stats](https://github-readme-stats.vercel.app/api?username=luishenriquecampossilva01&show_icons=true&theme=dracula)
 
 ## Tecnologias que eu uso no meu dia
 <div style = "display: inline-block"><br/>
